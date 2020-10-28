@@ -5,3 +5,5 @@
 Install easygui by pressing the Windows key on your keyboard and typing cmd.exe, then press enter and type "pip install easygui" or "pip3 install easygui" depending on your python version.
 
 If you do not want to install easygui, I will provide a compiled .exe for your convenience.
+
+.exe compiling done with the pyinstaller command line tool
